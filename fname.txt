@@ -1,0 +1,1 @@
+/var/www/html/rnd/r.txt,/var/www/html/rnd/h.txt
